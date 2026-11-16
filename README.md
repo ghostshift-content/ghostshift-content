@@ -9,14 +9,20 @@ Lately I've been building tooling that maps a codebase before anyone hunts in it
 ## Certifications 🎓
 
 <p>
-  <img alt="OSCP" src="https://img.shields.io/badge/OffSec-OSCP-ED1C24?style=for-the-badge&logo=offensive-security&logoColor=white">
+  <a href="https://www.credential.net/ffae760e-8df7-499c-8247-5c5f8d109f36"><img alt="OSCP" src="https://img.shields.io/badge/OffSec-OSCP-ED1C24?style=for-the-badge&logo=offensive-security&logoColor=white"></a>
   <img alt="eWPTXv2" src="https://img.shields.io/badge/eLearnSecurity-eWPTXv2-0A66C2?style=for-the-badge">
-  <img alt="Azure Security Engineer Associate" src="https://img.shields.io/badge/Microsoft_Certified-Azure_Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <a href="https://www.credly.com/badges/d271da48-a344-4ce2-bcd0-e578639ee064"><img alt="Azure Security Engineer Associate" src="https://img.shields.io/badge/Microsoft_Certified-Azure_Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
+  <a href="https://credentials.offsec.com/09f0a39d-ed40-4f92-9809-321095bf3111"><img alt="OffSec Cloud Essentials" src="https://img.shields.io/badge/OffSec-Cloud_Essentials-1F2937?style=for-the-badge&logo=offensive-security&logoColor=white"></a>
+  <a href="https://skillshub.isqi.org/975a4976-cefe-4e75-b2b8-e14f411f401f?key=85d662da0da4afd2ef99028e455119cf2c9b8e85ca7a7f8f9ef60fe6ef95d45d"><img alt="ISTQB Foundation" src="https://img.shields.io/badge/ISTQB-Certified_Tester_Foundation-5B21B6?style=for-the-badge"></a>
 </p>
 
-- **OffSec Certified Professional (OSCP)**
-- **eLearnSecurity Web Application Penetration Tester eXtreme (eWPTXv2)**
-- **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+| Certification | Issuer | Issued | Verify |
+|---|---|---|---|
+| **OffSec Certified Professional (OSCP)** | OffSec | Aug 2023 | [credential.net](https://www.credential.net/ffae760e-8df7-499c-8247-5c5f8d109f36) |
+| **Web Application Penetration Tester eXtreme (eWPTXv2)** | eLearnSecurity / INE | | |
+| **Microsoft Certified: Azure Security Engineer Associate (AZ-500)** | Microsoft | Jun 2020 | [Credly](https://www.credly.com/badges/d271da48-a344-4ce2-bcd0-e578639ee064) |
+| **Cloud Essentials** learning path | OffSec | | [credentials.offsec.com](https://credentials.offsec.com/09f0a39d-ed40-4f92-9809-321095bf3111) |
+| **ISTQB® Certified Tester, Foundation Level** | iSQI | Apr 2022 | [skillshub.isqi.org](https://skillshub.isqi.org/975a4976-cefe-4e75-b2b8-e14f411f401f?key=85d662da0da4afd2ef99028e455119cf2c9b8e85ca7a7f8f9ef60fe6ef95d45d) |
 
 ## Publications ✍️
 
