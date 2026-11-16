@@ -2,7 +2,7 @@
 
 # Hello friend 👋
 
-I'm **Jay**, a penetration tester working under the handle **GhostShift**. Seven-plus years of offensive security and more than a hundred engagements across web applications, cloud, Active Directory, APIs, mobile and internal networks, for public and private sector clients around the world. I like realistic attack simulation and manual exploitation, and I like explaining what an attacker sees in a way the people who own the system can act on.
+I'm **Jay**, a penetration tester working under the handle **GhostShift**. Bug bounty since 2015, seven-plus years of professional offensive security and more than a hundred engagements across web applications, cloud, Active Directory, APIs, mobile and internal networks, for public and private sector clients around the world. I like realistic attack simulation and manual exploitation, and I like explaining what an attacker sees in a way the people who own the system can act on.
 
 Lately I've been building tooling that maps a codebase before anyone hunts in it, so that findings come with evidence instead of opinions.
 
@@ -32,12 +32,23 @@ Lately I've been building tooling that maps a codebase before anyone hunts in it
 | [ADCS-ESC1: Misconfigured Certificate Templates Leading to Full Domain Compromise](https://www.cobalt.io/blog/adcs-esc1-misconfigured-certificate-templates-leading-to-full-domain-compromise) | Cobalt Blog · Mar 2026 | How one over-permissive AD CS template lets a low-privileged domain user mint a certificate for an administrator, with exploitation, detection and remediation. |
 | Prevention of Cross-Site Scripting Attacks in Web Applications | IEEE EECCMC · also in Springer AISC vol. 1150 ([chapter](https://doi.org/10.1007/978-3-030-44038-1_100)) | A rule-based framework for hardening web applications against XSS, reviewed against the traditional prevention methods. |
 
-More posts on [the Cobalt author page](https://www.cobalt.io/blog/author/ghostshift).
+More posts on [the Cobalt author page](https://www.cobalt.io/blog/author/ghostshift). Cobalt also ran a [Core Pentester Spotlight](https://www.cobalt.io/blog/cobalt-core-pentester-spotlight-jay-patel) on how I work (Sep 2025).
 
 ## CVEs 🧨
 
 <!-- cve-list:start -->
-_CVE credits are being added. Watch this space._
+Credited under *Jay Patel*, *Jay K Patel*, *Jay Kaushik Patel* and the HackerOne handle *hackaccinocraft*.
+
+| CVE | Vendor · component | Class | Impact | Fixed in |
+|---|---|---|---|---|
+| [CVE-2026-112599](https://support.apple.com/en-us/149527) | Apple · WebKit | Use-after-free (CWE-416) | Maliciously crafted web content leads to an unexpected process crash. With Avinash Kumar Thapa. | Safari, iOS/iPadOS, macOS, watchOS, tvOS, visionOS 27.2 · Oct 2026 |
+| [CVE-2026-113936](https://support.apple.com/en-us/149521) | Apple · CoreStorage | Out-of-bounds read | An app may cause unexpected system termination. With Jay J Patel. | macOS Golden Gate 27.2 · Oct 2026 |
+| [CVE-2026-113937](https://support.apple.com/en-us/149521) | Apple · CoreStorage | Out-of-bounds read | An app may cause unexpected system termination. | macOS Golden Gate 27.2 · Oct 2026 |
+| [CVE-2026-113940](https://support.apple.com/en-us/149521) | Apple · CoreStorage | Out-of-bounds read | An app may cause unexpected system termination. With Jay J Patel and Narendra Singh. | macOS Golden Gate 27.2 · Oct 2026 |
+| [CVE-2026-65365](https://support.apple.com/en-us/149042) | Apple · SMB | Out-of-bounds read, kernel | Connecting to a malicious SMB share may disclose kernel memory. With Peter Malone. | macOS Tahoe 26.7, Sequoia 15.8 · Sep 2026 |
+| [CVE-2026-4524](https://www.cve.org/CVERecord?id=CVE-2026-4524) | GitLab CE/EE · Issues API | Improper authorization (CWE-288) · CVSS 6.5 | An authenticated user could read confidential issue content in public projects. Reported through HackerOne, surfaced by ARCHON. | [18.11.3 / 18.10.6 / 18.9.7](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released/) · May 2026 |
+
+Further reports are in coordinated disclosure and will be listed once the vendors ship fixes.
 <!-- cve-list:end -->
 
 ## What I'm building 🛠️
