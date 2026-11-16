@@ -37,7 +37,7 @@ More posts on [the Cobalt author page](https://www.cobalt.io/blog/author/ghostsh
 ## CVEs 🧨
 
 <!-- cve-list:start -->
-Credited under *Jay Patel*, *Jay K Patel*, *Jay Kaushik Patel* and the HackerOne handle *hackaccinocraft*.
+Credited under *Jay Patel*, *Jay K Patel*, *Jay Kaushik Patel* and the HackerOne handles *hackaccinocraft* and *jaykp*.
 
 | CVE | Vendor · component | Class | Impact | Fixed in |
 |---|---|---|---|---|
