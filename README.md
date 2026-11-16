@@ -50,7 +50,7 @@ _CVE credits are being added. Watch this space._
 ## Find me around the web 🌎
 
 - Research write-ups on the [Cobalt Blog](https://www.cobalt.io/blog/author/ghostshift) 📝
-- Career updates and longer posts on [LinkedIn](https://www.linkedin.com/) 💼
+- Career updates and longer posts on [LinkedIn](https://www.linkedin.com/in/jaypatelk) 💼
 - Code and tooling right here on [GitHub](https://github.com/ghostshift-content) 📫
 
 <p align="center">
